@@ -1,2 +1,2 @@
 # profile
-membuat profile dengan huruf dan css
+Making profile with html and css
